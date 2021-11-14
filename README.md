@@ -1,9 +1,8 @@
 # cr4ck-fb.v1
-
-cr4ck-fb
-Script Crack Facebook 🚶‍♂
+Script Crack Facebook !!
 
 Install Script
+
 $ pkg update && pkg upgrade
 
 $ pkg install git
