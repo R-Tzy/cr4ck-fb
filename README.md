@@ -20,7 +20,7 @@ $ pip2 install bs4
 
 $ rm -rf cr4ck-fb
 
-$ git clone https://github.com/YumasaaTzy/cr4ck-fb
+$ git clone https://github.com/R-Tzy/cr4ck-fb
 
 Run Script
 
@@ -28,7 +28,7 @@ $ cd cr4ck-fb
 
 $ git pull
 
-$ python2 ymbf.py
+$ python2 Ymbf.py
 
 Perecode Handal
 
