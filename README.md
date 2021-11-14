@@ -20,7 +20,7 @@ $ pip2 install bs4
 
 $ rm -rf cr4ck-fb.v2
 
-$ git clone https://github.com/R-Tzy/cr4ck-fb
+$ git clone https://github.com/R-Tzy/cr4ck-fb.v2
 
 Run Script
 
