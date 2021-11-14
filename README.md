@@ -18,13 +18,13 @@ $ pip2 install futures
 
 $ pip2 install bs4
 
-$ rm -rf cr4ck-fb
+$ rm -rf cr4ck-fb.v2
 
 $ git clone https://github.com/R-Tzy/cr4ck-fb
 
 Run Script
 
-$ cd cr4ck-fb
+$ cd cr4ck-fb.v2
 
 $ git pull
 
