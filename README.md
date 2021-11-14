@@ -18,9 +18,9 @@ $ pip2 install futures
 
 $ pip2 install bs4
 
-$ rm -rf cr4ck-fb.v2
+$ rm -rf cr4ck_fb_v2
 
-$ git clone https://github.com/R-Tzy/cr4ck-fb.v2
+$ git clone https://github.com/R-Tzy/cr4ck_fb_v2
 
 Run Script
 
@@ -28,7 +28,7 @@ $ cd cr4ck-fb.v2
 
 $ git pull
 
-$ python2 Ymbf.py
+$ python2 ymbf.py
 
 Perecode Handal
 
